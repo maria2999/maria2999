@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Merhaba 👋, ben maria</h1>
+<h3 align="center">Ben Maria. Gaziantep İslam Bilim ve Teknoloji Üniversitesi Bilgisayar Mühendisliği Bölümü 1. sınıf öğrencisiyim. Şu anda C, C++ ve Python programlama dillerini öğrenmiş bulunuyorum. Kendimi geliştirmeyi hedeflediğim yabancı diller İngilizce,Arapça ve Korecedir. Özellikle teknik İngilizceye önem veriyor, alanımla ilgili kaynakları bu dilde takip etmeye çalışıyoruz. Oyun geliştirme ve tasarım süreçlerinde büyük ilgi artışı. Bunun yanı sıra bilgisayar ağları ve siber güvenlik konuları da ilgimi çekiyor. Gelecekte bu alanlarda gelişmeyi, uzmanlaşmayı ve kariyerimi bu yönde şekillendirmeyi hedefliyorum. Hem teorik bilgileri hem de pratikliği artırmak için aktif olarak çalışarak, yeni teknolojileri ve güncel gelişmeleri detaylı takip ediyorum.</h3>
 
-<!--
-**maria2999/maria2999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Benimle iletişime geç:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/maria bahça" target="blank"><img align="center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt = "maria bahça" height = "30" width = "40" /></a>
+<a href = "https://fb.com/maria bahça" target = "blank"><img align = "center" <a href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maria bahça" height="30" width="40" /></a>
+<a href="https://instagram.com/mm_maria_ww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mm_maria_ww" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mariabahce1825" target="blank"><img align="center" <a href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mariabahce1825" height="30" width="40" /></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Diller ve Araçlar:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
